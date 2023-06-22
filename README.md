@@ -8,7 +8,7 @@ En este caso para abrirla
 
 Envio el repositorio, pero aparte de esto ya que hay archivos que no subieron, dejo un link para descargar toda la prueba desde drive
 
-<strong>Link Drive: <strong>
+<strong>Link Drive:https://drive.google.com/file/d/1-S665zBQUEMJTL71d3aWMQzeQnr-6k7x/view?usp=sharing <strong>
 
 <p>Implemenacion Prueba</p>
 
